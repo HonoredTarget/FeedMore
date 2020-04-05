@@ -1,0 +1,36 @@
+body {
+    width: 100%;
+    overflow-x: hidden;
+    background-image: url("https://images.unsplash.com/photo-1511988617509-a57c8a288659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+    background-size: cover;
+}
+
+.tyty {
+    padding: 30px;
+    margin: 30px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+    padding: 30px;
+    font-size: 40px;
+}
+.don {
+    background-color: rgba(202, 202, 202, 0.897);
+    padding: 30px;
+    margin: 30px;
+    border-radius: 12px;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background: rgb(41, 108, 184);
+    }
+    
+  }
+
+.who {
+    display: inline;
+}
