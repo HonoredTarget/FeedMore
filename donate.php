@@ -32,7 +32,7 @@
             break;
         case "companyB":
             $returnString .= "<div class='tyty'>";
-            $returnString .= "<h1>Thank you for choosing to order from Restaurant A!</h1>";
+            $returnString .= "<h1>Thank you for choosing to order from Restaurant B!</h1>";
             $returnString .= "</div>";
             $returnString .= "<div class='options'>";
             $returnString .= "<div class='row'>";
@@ -51,7 +51,7 @@
             break;
         case "companyC":
             $returnString .= "<div class='tyty'>";
-            $returnString .= "<h1>Thank you for choosing to order from Restaurant A!</h1>";
+            $returnString .= "<h1>Thank you for choosing to order from Restaurant C!</h1>";
             $returnString .= "</div>";
             $returnString .= "<div class='options'>";
             $returnString .= "<div class='row'>";
